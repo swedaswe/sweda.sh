@@ -15,3 +15,10 @@ echo  "sum= $(( 2+4 ))"
 
 find . -type f -size +1M -print
 
+name="sweda"
+echo $name
+place="kozhikode"
+echo $place
+age="21"
+echo $age
+
